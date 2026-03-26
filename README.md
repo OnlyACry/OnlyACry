@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OnlyACry&label=Profile views&color=0e75b6&style=flat" alt="OnlyACry" /> </p>
 
-- 🔭 I'm currently working on **Looking for business~**
-
 - 🌱 I'm currently learning **.Net and C++**
 
 - 💬 Ask me about **.Net、WPF**
